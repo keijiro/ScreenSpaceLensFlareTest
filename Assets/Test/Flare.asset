@@ -97,8 +97,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: {x: 1, y: 1}
   samples:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 3
   sampleDimmer:
     m_OverrideState: 0
     m_Value: 0.5
@@ -107,16 +107,16 @@ MonoBehaviour:
     m_Value: 1
   startingPosition:
     m_OverrideState: 0
-    m_Value: 1.25
+    m_Value: 1.2
   scale:
     m_OverrideState: 0
     m_Value: 1.5
   streaksIntensity:
     m_OverrideState: 1
-    m_Value: 0.15
+    m_Value: 0.2
   streaksLength:
     m_OverrideState: 1
-    m_Value: 0.38
+    m_Value: 0.6
   streaksOrientation:
     m_OverrideState: 0
     m_Value: 0
