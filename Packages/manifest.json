@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.recorder": "4.0.0",
     "com.unity.render-pipelines.universal": "15.0.5",
     "com.unity.timeline": "1.8.2",
     "com.unity.visualeffectgraph": "15.0.5",

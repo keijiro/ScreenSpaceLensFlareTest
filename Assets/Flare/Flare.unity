@@ -571,8 +571,8 @@ VisualEffect:
   m_Asset: {fileID: 8926484042661614526, guid: 7ee2d38a43ee84f2bbb826ebeaad823f, type: 3}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
-  m_StartSeed: 0
-  m_ResetSeedOnPlay: 1
+  m_StartSeed: 19644623
+  m_ResetSeedOnPlay: 0
   m_AllowInstancing: 1
   m_ResourceVersion: 1
   m_PropertySheet:
