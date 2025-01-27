@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "com.unity.recorder": "4.0.0",
-    "com.unity.render-pipelines.universal": "15.0.5",
-    "com.unity.timeline": "1.8.2",
-    "com.unity.visualeffectgraph": "15.0.5",
-    "jp.keijiro.klak.motion": "1.0.2",
-    "jp.keijiro.metamesh": "1.1.1",
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "com.unity.timeline": "1.8.7",
+    "com.unity.visualeffectgraph": "17.0.3",
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.metamesh": "1.2.0",
     "jp.keijiro.metatex": "1.0.4",
-    "jp.keijiro.vfxgraphassets": "1.2.0"
+    "jp.keijiro.vfxgraphassets": "3.8.0"
   },
   "scopedRegistries": [
     {
